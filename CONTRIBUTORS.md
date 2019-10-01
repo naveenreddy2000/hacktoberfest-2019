@@ -1,3 +1,8 @@
+#### Name: [Naveen Reddy](https://github.com/naveenreddy2000)
+- Place: Guntur , India
+- Bio: student at NIT Durgapur
+- GitHub: [moodiest](https://github.com/naveenreddy2000)
+
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
